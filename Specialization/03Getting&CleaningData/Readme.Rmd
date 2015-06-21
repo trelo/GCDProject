@@ -1,9 +1,7 @@
 =============================================================
 Creation of a tidy dataset with average of mean and standard deviation for each measurement for each activity and each subject.
 =============================================================
-The dataset is created from Human Activity Recognition Using Smartphones Dataset. The Smartphones dataset consists of measurements of human activity based on experiments  carried out with a group of 30 volunteers. Each person performed six activities (WALKING, 
-WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, the 3-axial linear acceleration and 3-axial angular velocity were captured. The obtained 
-dataset has been partitioned into two sets in training and test dataset.
+The dataset is created from Human Activity Recognition Using Smartphones Dataset. The Smartphones dataset consists of measurements of human activity based on experiments  carried out with a group of 30 volunteers. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, the 3-axial linear acceleration and 3-axial angular velocity were captured. The obtained dataset has been partitioned into two sets in training and test dataset.
 =============================================================
 The tidy dataset have been created merging the training and test datasets. The raw data consists of measurements, subjects and activity for training  and test set in seperate files.
 - 'features.txt': List of all features.
